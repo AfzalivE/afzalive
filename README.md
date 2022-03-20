@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/afzalive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afzalive" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/afzalive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afzalive" height="30" width="40" /></a>
-<a href="https://hashnode.com/@afzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@afzal" height="30" width="40" /></a>
+<a href="https://hashnode.com/@afzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/afzalive/afzalive/main/hashnode-logo.svg" alt="@afzal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/afzalive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="afzalive" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/afzal____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="afzal____" height="30" width="40" /></a>
 </p>
