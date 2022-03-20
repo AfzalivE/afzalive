@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afzalive&theme=nord" alt="afzalive" /></a> </p>
 
-- 🔭 I’m currently working on [Todoist and Twist](doist.com/)
+- 🔭 I’m currently working on [Todoist](todoist.com/) and [Twist](twist.com/)
 
 - 📝 I regularly write articles on [https://afzal.me](https://afzal.me)
 
