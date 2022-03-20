@@ -21,5 +21,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://gradle.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=afzalive&show_icons=true&theme=dark&locale=en" alt="afzalive" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=afzalive&show_icons=true&theme=blueberry&locale=en" alt="afzalive" /></p>
 
