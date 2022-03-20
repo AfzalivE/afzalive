@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [Todoist](todoist.com/) and [Twist](twist.com/)
 
-- 📝 I regularly write articles on [https://afzal.me](https://afzal.me)
+- 📝 I write articles on [https://afzal.me](https://afzal.me)
+
+- 🖥 I work on a [side-project](https://github.com/AfzalivE/BestTvLauncher) live on [Twitch](https://twitch.tv/afzal____) every [Saturday around 3pm (EDT)](https://everytimezone.com/s/1441fa04)
 
 - ⚡ Fun fact **I can shoot the 🏀 around 66% with both hands 👐🏽**
 
