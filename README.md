@@ -38,4 +38,5 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Android&#39;s x86 emulators on M1 Macs](https://afzal.me/how-to-use-androids-x86-emulators-on-m1-macs)
 <!-- BLOG-POST-LIST:END -->
