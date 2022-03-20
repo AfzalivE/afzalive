@@ -30,7 +30,7 @@
 <br>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=afzalive&show_icons=true&theme=blueberry&locale=en" alt="afzalive" />
+<img src="https://github-readme-stats.vercel.app/api?username=afzalive&count_private=true&show_icons=true&theme=blueberry" alt="afzalive" />
 </p>
 
 <br>
