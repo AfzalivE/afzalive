@@ -23,3 +23,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=afzalive&show_icons=true&theme=blueberry&locale=en" alt="afzalive" /></p>
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
