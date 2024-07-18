@@ -41,4 +41,5 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to use Android&#39;s x86 emulators on M1 Macs](https://afzal.me/how-to-use-androids-x86-emulators-on-m1-macs)
+- [Improving our Android app's startup time by 20%](https://doist.dev/posts/android-app-baseline-profiles)
 <!-- BLOG-POST-LIST:END -->
