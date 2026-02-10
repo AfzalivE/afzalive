@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Afzal</h1>
 <h3 align="left">A passionate Android developer from Canada 🇨🇦</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afzalive&theme=nord" alt="afzalive" /></a> </p>
-
 - 🔭 I’m currently working on [Todoist](https://todoist.com/) and [Twist](https://twist.com/)
 
 - 📝 I write articles on [https://afzal.me](https://afzal.me)
@@ -28,12 +26,6 @@
 ## Languages and Tools
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/afzalive/afzalive/main/android-logo.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://gradle.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-
-<br>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=afzalive&count_private=true&show_icons=true&theme=blueberry" alt="afzalive" />
-</p>
 
 <br>
 
